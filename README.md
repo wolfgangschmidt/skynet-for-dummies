@@ -1,1 +1,1 @@
-# skynet-for-dummies
+# for-dummies
