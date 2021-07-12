@@ -1,7 +1,7 @@
 # this is considereing you have all the credencials explicit in the code 
 # and that your db is publicly available, with is shouldn't
 
-MONGO_DATABASE_NAME = 'db-qlife'
+MONGO_DATABASE_NAME = 'db-name'
 
 MONGO_LOCAL_HOST = "http://some-mongo-host"
 
